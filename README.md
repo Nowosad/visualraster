@@ -14,11 +14,6 @@ If `devtools` is installed, you can
   library("devtools")
   install_github("etiennebr/visualraster")
   ```
-Otherwise, download the package from the download section
-
-  ```
-  install.packages("visualraster")
-  ```
 
 ## How to use it ?
 You can have a demonstration by typing `demo("vr-cheatsheet")`
